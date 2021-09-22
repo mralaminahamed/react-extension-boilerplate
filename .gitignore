@@ -6,5 +6,6 @@ extension
 dev
 .vscode
 
+# cahce files and folders
 *-lock.json
 .idea
