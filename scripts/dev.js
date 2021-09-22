@@ -9,7 +9,7 @@ const chalk = require('chalk');
 const webpack = require('webpack');
 const argv = require('yargs').argv;
 const formatWebpackMessages = require('react-dev-utils/formatWebpackMessages');
-const printBuildError = require('react-dev-utils/printBuildError');
+// const printBuildError = require('react-dev-utils/printBuildError');
 
 require('colors');
 
